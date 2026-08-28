@@ -1,4 +1,4 @@
-name: Build and Publish GPU Image
+name: Build and Publish GPU Image  to GHCR
 
 on:
   push:
